@@ -10,8 +10,8 @@
 
 ## 📁 資料夾結構
 請在專案根目錄或指定路徑下建立以下結構：
-- `C:\Users\影片壓縮\待壓縮` （放置原始錄影檔）
-- `C:\Users\影片壓縮\壓縮完成` （輸出壓縮後的檔案）
+- `C:\Users\VideoCompression\input` （放置原始錄影檔）
+- `C:\Users\VideoCompression\output` （輸出壓縮後的檔案）
 
 ## ⚙️ 系統需求
 - Python 3.x
